@@ -1,0 +1,2 @@
+FROM rancher/rancher:latest
+
